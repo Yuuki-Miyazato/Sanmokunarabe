@@ -1,0 +1,10 @@
+D:\c++kadai\Sanmokunarabe\Debug\Sanmokunarabe.exe
+D:\c++kadai\Sanmokunarabe\Debug\Sanmokunarabe.pdb
+D:\c++kadai\Sanmokunarabe - コピー\Debug\Sanmokunarabe.exe
+D:\c++kadai\Sanmokunarabe - コピー\Debug\Sanmokunarabe.pdb
+D:\c++kadai\Sanmokunarabe - コピー - コピー\Debug\Sanmokunarabe.exe
+D:\c++kadai\Sanmokunarabe - コピー - コピー\Debug\Sanmokunarabe.pdb
+D:\c++の課題\Sanmokunarabe_copy\Debug\Sanmokunarabe.exe
+D:\c++の課題\Sanmokunarabe_copy\Debug\Sanmokunarabe.pdb
+D:\c++の課題\Sanmokunarabe\Debug\Sanmokunarabe.exe
+D:\c++の課題\Sanmokunarabe\Debug\Sanmokunarabe.pdb

@@ -1,0 +1,2 @@
+D:\c++の課題\Sanmokunarabe_copy\Release\Sanmokunarabe.exe
+D:\c++の課題\Sanmokunarabe\Release\Sanmokunarabe.exe
